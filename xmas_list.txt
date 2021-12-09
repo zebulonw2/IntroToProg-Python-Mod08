@@ -1,0 +1,3 @@
+banana, $0.555
+dyson vacuum, $800.555
+candy, $4.55
